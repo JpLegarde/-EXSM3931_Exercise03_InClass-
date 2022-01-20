@@ -1,1 +1,2 @@
 inclass 1 
+in class 2 
